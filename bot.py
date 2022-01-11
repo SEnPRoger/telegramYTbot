@@ -86,7 +86,10 @@ def formatTitle(youtube):
 
         # check if video title have words, like: Lyric or Official
         if "Lyric" in audioTitle or "Official" in audioTitle or "Live" in audioTitle or "Video" in audioTitle:
-            split_string2 = audioTitle.split(" (", 2)
+            if "[" in audioTitle:
+                split_string2 = audioTitle.split(" [", 2)
+            if "(" in audioTitle:
+                split_string2 = audioTitle.split(" (", 2)
             audioTitle = split_string2[0]
     else:
         audioTitle = youtube.title
