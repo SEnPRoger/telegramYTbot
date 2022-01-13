@@ -1,0 +1,58 @@
+{
+    "en":[
+        {
+            "chooseLang_text" : "Choose a language",
+            "greeting_text" : "Hello ✌️. Do you want to download a music or track, but it is only on Youtube?\n\n• Send me a link to a clip from Youtube and I will send you an audio track📬\n(Conversion takes approximately 1 minute)\n\n🧑‍💻Author: <a href='https://github.com/SEnPRoger'>SEnPRoger</a>",
+            "convertTo_text" : "Convert to mp3🎵",
+            "missedLink_text" : "Something went wrong. Perhaps the entered text is not a link or the video is no longer available❌",
+            "preparingVideo_text" : "Converting the video... (Preparing the video) ⌛️",
+            "gettingAudio_text" : "Converting the video... 🟩⬜️⬜️\n(Extracting audio track) ⌛️",
+            "formattingData_text" : "Converting the video... 🟩🟩⬜️\n(Formatting metadata) ⌛️",
+            "almostDone_text" : "Converting the video... 🟩🟩🟩\n(A few seconds left) ⌛️",
+            "convertSuccess" : "Converting the video... 3/3 (Done) ✅",
+            "convertFailed" : "Converting the video... (Failed to send audio file) ❌"
+        }
+    ],
+    "fr" : [
+        {
+            "chooseLang_text" : "Choisissez une langue",
+            "greeting_text" : "Bonjour ✌️. Voulez-vous télécharger une musique ou une piste, mais c'est uniquement sur Youtube?\n\n• Envoyez-moi un lien vers un clip de Youtube et je vous enverrai une piste audio📬\n(La conversion prend environ 1 minute)\n\n🧑‍💻Auteur: <a href='https://github.com/SEnPRoger'>SEnPRoger</a>",
+            "convertTo_text" : "Convertir en mp3🎵",
+            "missedLink_text" : "Quelque chose s'est mal passé. Peut-être que le texte saisi n'est pas un lien ou que la vidéo n'est plus disponible❌",
+            "preparingVideo_text" : "Conversion de la vidéo... (Préparation de la vidéo) ⌛️",
+            "gettingAudio_text" : "Conversion de la vidéo... 🟩⬜️⬜️\n(Extraction de la piste audio) ⌛️",
+            "formattingData_text" : "Conversion de la vidéo... 🟩🟩⬜️\n(Formatage des métadonnées) ⌛️",
+            "almostDone_text" : "Conversion de la vidéo... 🟩🟩🟩\n (Quelques secondes restantes) ⌛️",
+            "convertSuccess" : "Conversion de la vidéo... 3/3 (Terminé) ✅",
+            "convertFailed" : "Conversion de la vidéo... (Échec de l'envoi du fichier audio) ❌"
+        }
+    ],
+    "sp" : [
+        {
+            "chooseLang_text" : "Elige un idioma",
+            "greeting_text" : "Hola ✌️. ¿Quieres descargar alguna música o pista, pero solo está en Youtube?\n\n• Envíame un enlace a un clip de Youtube y te enviaré una pista de audio📬\n(La conversión tarda aproximadamente 1 minuto)\n\n🧑‍💻Autor: <a href='https://github.com/SEnPRoger'>SEnPRoger</a>",
+            "convertTo_text" : "Convertir a mp3🎵",
+            "missedLink_text" : "Algo salió mal. Tal vez el texto ingresado no es un enlace o el video ya no está disponible❌",
+            "preparingVideo_text" : "Convirtiendo el vídeo... (Preparación de vídeo) ⌛️",
+            "gettingAudio_text" : "Convirtiendo el vídeo... 🟩⬜️⬜️\n(Extraer pista de audio) ⌛️",
+            "formattingData_text" : "Convirtiendo el vídeo... 🟩🟩⬜️\n(Formato de metadatos) ⌛️",
+            "almostDone_text" : "Convirtiendo el vídeo... 🟩🟩🟩\n (Quedan unos segundos) ⌛️",
+            "convertSuccess" : "Convirtiendo el vídeo... 3/3 (Terminado) ✅",
+            "convertFailed" : "Convirtiendo el vídeo... (No se pudo enviar el archivo de audio) ❌"
+        }
+    ],
+    "ru":[
+        {
+            "chooseLang_text" : "Выбери язык",
+            "greeting_text" : "Привет ✌️. Хочешь скачать музыку или трек, но он есть только на Youtube?\n\n• Отправь мне ссылку на клип с Youtube и я пришлю тебе аудиодорожку📬\n(Конвертация занимает примерно 1 минуту)\n\n🧑‍💻Author: <a href='https://github.com/SEnPRoger'>SEnPRoger</a>",
+            "convertTo_text" : "Конвертировать в mp3🎵",
+            "missedLink_text" : "Что-то пошло не так. Возможно введенный текст не является ссылкой или ролик больше не доступен❌",
+            "preparingVideo_text" : "Конвертация видео... (Подготовка видео) ⌛️",
+            "gettingAudio_text" : "Конвертация видео... 🟩⬜️⬜️\n(Извлечение аудиодорожки) ⌛️",
+            "formattingData_text" : "Конвертация видео... 🟩🟩⬜️\n(Форматирование метаданных) ⌛️",
+            "almostDone_text" : "Конвертация видео... 🟩🟩🟩\n(Осталось несколько секунд) ⌛️",
+            "convertSuccess" : "Конвертация видео... 3/3 (Готово) ✅",
+            "convertFailed" : "Конвертация видео... (Не удалось отправить аудиофайл) ❌"
+        }
+    ]
+}

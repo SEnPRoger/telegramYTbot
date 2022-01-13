@@ -9,8 +9,8 @@ from moviepy.editor import *
 # =============================================================================
 # Code for Video Converter to MP3 Telegram Bot from Youtube
 #
-# Version: 1.1 (Release)
-# Date: 12.01.2022
+# Version: 1.2 (Release)
+# Date: 13.01.2022
 # Author: SEnPRoger
 #
 # Contact: senproger@gmail.com
