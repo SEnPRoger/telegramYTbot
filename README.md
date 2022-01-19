@@ -9,13 +9,13 @@
 ## Packages
 #### For using bot, these packages are need to be installed
 
-```$ pip install moviepy```
+```$ pip install moviepy``` <a href='https://pypi.org/project/moviepy/'>(Documentation)</a>
 
-```$ pip install pytube3```
+```$ pip install pytube3``` <a href='https://pypi.org/project/pytube3/'>(Documentation)</a>
 
-```$ pip install requests```
+```$ pip install requests``` <a href='https://pypi.org/project/requests/'>(Documentation)</a>
 
-```$ pip install pyTelegramBotAPI```
+```$ pip install pyTelegramBotAPI``` <a href='https://pypi.org/project/pyTelegramBotAPI/'>(Documentation)</a>
 
 ## Functions
 #### Functions for converting video
@@ -83,7 +83,7 @@
     if call.data == "chooseLang_EN":
       lang = "en"
 
-    if call.data == "chooseLang_RU":
+    if call.data == "chooseLang_FR":
       lang = "fr"
   ```
   Almost done - finally we can replace all strings at part, where bot send messages to user in ```str(data["lang"][0]["key_from_json_file"])```. And do not forget to import variable ```lang``` by adding this line ```global lang``` in every function, where we send message to user.
